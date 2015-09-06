@@ -1,0 +1,192 @@
+main.o: main.cpp c:/devkitPro/libctru/include/3ds.h \
+ c:/devkitPro/libctru/include/3ds/types.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdint.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdint.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_intsup.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdbool.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h \
+ c:/devkitPro/libctru/include/3ds/svc.h \
+ c:/devkitPro/libctru/include/3ds/srv.h \
+ c:/devkitPro/libctru/include/3ds/linear.h \
+ c:/devkitPro/libctru/include/3ds/vram.h \
+ c:/devkitPro/libctru/include/3ds/os.h \
+ c:/devkitPro/libctru/include/3ds/gfx.h \
+ c:/devkitPro/libctru/include/3ds/services/gsp.h \
+ c:/devkitPro/libctru/include/3ds/console.h \
+ c:/devkitPro/libctru/include/3ds/util/utf.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\types.h \
+ c:/devkitPro/libctru/include/3ds/services/ac.h \
+ c:/devkitPro/libctru/include/3ds/services/am.h \
+ c:/devkitPro/libctru/include/3ds/services/apt.h \
+ c:/devkitPro/libctru/include/3ds/services/cfgnor.h \
+ c:/devkitPro/libctru/include/3ds/services/cfgu.h \
+ c:/devkitPro/libctru/include/3ds/services/csnd.h \
+ c:/devkitPro/libctru/include/3ds/services/fs.h \
+ c:/devkitPro/libctru/include/3ds/services/hid.h \
+ c:/devkitPro/libctru/include/3ds/services/irrst.h \
+ c:/devkitPro/libctru/include/3ds/services/httpc.h \
+ c:/devkitPro/libctru/include/3ds/services/ir.h \
+ c:/devkitPro/libctru/include/3ds/services/ns.h \
+ c:/devkitPro/libctru/include/3ds/services/pm.h \
+ c:/devkitPro/libctru/include/3ds/services/ps.h \
+ c:/devkitPro/libctru/include/3ds/services/ptm.h \
+ c:/devkitPro/libctru/include/3ds/services/soc.h \
+ c:/devkitPro/libctru/include/3ds/services/mic.h \
+ c:/devkitPro/libctru/include/3ds/services/mvd.h \
+ c:/devkitPro/libctru/include/3ds/services/news.h \
+ c:/devkitPro/libctru/include/3ds/services/qtm.h \
+ c:/devkitPro/libctru/include/3ds/services/y2r.h \
+ c:/devkitPro/libctru/include/3ds/services/hb.h \
+ c:/devkitPro/libctru/include/3ds/gpu/gx.h \
+ c:/devkitPro/libctru/include/3ds/gpu/gpu.h \
+ c:/devkitPro/libctru/include/3ds/gpu/registers.h \
+ c:/devkitPro/libctru/include/3ds/gpu/shbin.h \
+ c:/devkitPro/libctru/include/3ds/gpu/shaderProgram.h \
+ c:/devkitPro/libctru/include/3ds/sdmc.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdio.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdarg.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\stdio.h h.h \
+ ../../include/dosbox.h ../../config.h ../../include/logging.h
+
+c:/devkitPro/libctru/include/3ds.h:
+
+c:/devkitPro/libctru/include/3ds/types.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdint.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdint.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_intsup.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdbool.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h:
+
+c:/devkitPro/libctru/include/3ds/svc.h:
+
+c:/devkitPro/libctru/include/3ds/srv.h:
+
+c:/devkitPro/libctru/include/3ds/linear.h:
+
+c:/devkitPro/libctru/include/3ds/vram.h:
+
+c:/devkitPro/libctru/include/3ds/os.h:
+
+c:/devkitPro/libctru/include/3ds/gfx.h:
+
+c:/devkitPro/libctru/include/3ds/services/gsp.h:
+
+c:/devkitPro/libctru/include/3ds/console.h:
+
+c:/devkitPro/libctru/include/3ds/util/utf.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\types.h:
+
+c:/devkitPro/libctru/include/3ds/services/ac.h:
+
+c:/devkitPro/libctru/include/3ds/services/am.h:
+
+c:/devkitPro/libctru/include/3ds/services/apt.h:
+
+c:/devkitPro/libctru/include/3ds/services/cfgnor.h:
+
+c:/devkitPro/libctru/include/3ds/services/cfgu.h:
+
+c:/devkitPro/libctru/include/3ds/services/csnd.h:
+
+c:/devkitPro/libctru/include/3ds/services/fs.h:
+
+c:/devkitPro/libctru/include/3ds/services/hid.h:
+
+c:/devkitPro/libctru/include/3ds/services/irrst.h:
+
+c:/devkitPro/libctru/include/3ds/services/httpc.h:
+
+c:/devkitPro/libctru/include/3ds/services/ir.h:
+
+c:/devkitPro/libctru/include/3ds/services/ns.h:
+
+c:/devkitPro/libctru/include/3ds/services/pm.h:
+
+c:/devkitPro/libctru/include/3ds/services/ps.h:
+
+c:/devkitPro/libctru/include/3ds/services/ptm.h:
+
+c:/devkitPro/libctru/include/3ds/services/soc.h:
+
+c:/devkitPro/libctru/include/3ds/services/mic.h:
+
+c:/devkitPro/libctru/include/3ds/services/mvd.h:
+
+c:/devkitPro/libctru/include/3ds/services/news.h:
+
+c:/devkitPro/libctru/include/3ds/services/qtm.h:
+
+c:/devkitPro/libctru/include/3ds/services/y2r.h:
+
+c:/devkitPro/libctru/include/3ds/services/hb.h:
+
+c:/devkitPro/libctru/include/3ds/gpu/gx.h:
+
+c:/devkitPro/libctru/include/3ds/gpu/gpu.h:
+
+c:/devkitPro/libctru/include/3ds/gpu/registers.h:
+
+c:/devkitPro/libctru/include/3ds/gpu/shbin.h:
+
+c:/devkitPro/libctru/include/3ds/gpu/shaderProgram.h:
+
+c:/devkitPro/libctru/include/3ds/sdmc.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdio.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdarg.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\stdio.h:
+
+h.h:
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:

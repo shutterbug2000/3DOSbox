@@ -1,0 +1,220 @@
+main.o: main.cpp ../include/dosbox.h ../config.h ../include/logging.h \
+ C:/devkitPro/msys/include/SDL/SDL.h \
+ C:/devkitPro/msys/include/SDL/SDL_main.h \
+ C:/devkitPro/msys/include/SDL/SDL_stdinc.h \
+ C:/devkitPro/msys/include/SDL/SDL_config.h \
+ C:/devkitPro/msys/include/SDL/SDL_platform.h \
+ C:/devkitPro/msys/include/SDL/begin_code.h \
+ C:/devkitPro/msys/include/SDL/close_code.h \
+ C:/devkitPro/msys/include/SDL/SDL_config_minimal.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdarg.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\string.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\string.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\strings.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\inttypes.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_intsup.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdint.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdint.h \
+ C:/devkitPro/msys/include/SDL/SDL_assert.h \
+ C:/devkitPro/msys/include/SDL/SDL_atomic.h \
+ C:/devkitPro/msys/include/SDL/SDL_audio.h \
+ C:/devkitPro/msys/include/SDL/SDL_error.h \
+ C:/devkitPro/msys/include/SDL/SDL_endian.h \
+ C:/devkitPro/msys/include/SDL/SDL_mutex.h \
+ C:/devkitPro/msys/include/SDL/SDL_thread.h \
+ C:/devkitPro/msys/include/SDL/SDL_rwops.h \
+ C:/devkitPro/msys/include/SDL/SDL_clipboard.h \
+ C:/devkitPro/msys/include/SDL/SDL_cpuinfo.h \
+ C:/devkitPro/msys/include/SDL/SDL_events.h \
+ C:/devkitPro/msys/include/SDL/SDL_video.h \
+ C:/devkitPro/msys/include/SDL/SDL_pixels.h \
+ C:/devkitPro/msys/include/SDL/SDL_rect.h \
+ C:/devkitPro/msys/include/SDL/SDL_surface.h \
+ C:/devkitPro/msys/include/SDL/SDL_blendmode.h \
+ C:/devkitPro/msys/include/SDL/SDL_keyboard.h \
+ C:/devkitPro/msys/include/SDL/SDL_keycode.h \
+ C:/devkitPro/msys/include/SDL/SDL_scancode.h \
+ C:/devkitPro/msys/include/SDL/SDL_mouse.h \
+ C:/devkitPro/msys/include/SDL/SDL_joystick.h \
+ C:/devkitPro/msys/include/SDL/SDL_gamecontroller.h \
+ C:/devkitPro/msys/include/SDL/SDL_quit.h \
+ C:/devkitPro/msys/include/SDL/SDL_gesture.h \
+ C:/devkitPro/msys/include/SDL/SDL_touch.h \
+ C:/devkitPro/msys/include/SDL/SDL_filesystem.h \
+ C:/devkitPro/msys/include/SDL/SDL_haptic.h \
+ C:/devkitPro/msys/include/SDL/SDL_hints.h \
+ C:/devkitPro/msys/include/SDL/SDL_loadso.h \
+ C:/devkitPro/msys/include/SDL/SDL_log.h \
+ C:/devkitPro/msys/include/SDL/SDL_messagebox.h \
+ C:/devkitPro/msys/include/SDL/SDL_power.h \
+ C:/devkitPro/msys/include/SDL/SDL_render.h \
+ C:/devkitPro/msys/include/SDL/SDL_system.h \
+ C:/devkitPro/msys/include/SDL/SDL_timer.h \
+ C:/devkitPro/msys/include/SDL/SDL_version.h \
+ C:/devkitPro/msys/include/SDL/SDL_Main.h
+
+../include/dosbox.h:
+
+../config.h:
+
+../include/logging.h:
+
+C:/devkitPro/msys/include/SDL/SDL.h:
+
+C:/devkitPro/msys/include/SDL/SDL_main.h:
+
+C:/devkitPro/msys/include/SDL/SDL_stdinc.h:
+
+C:/devkitPro/msys/include/SDL/SDL_config.h:
+
+C:/devkitPro/msys/include/SDL/SDL_platform.h:
+
+C:/devkitPro/msys/include/SDL/begin_code.h:
+
+C:/devkitPro/msys/include/SDL/close_code.h:
+
+C:/devkitPro/msys/include/SDL/SDL_config_minimal.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdarg.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\string.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\string.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\strings.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\inttypes.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_intsup.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdint.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdint.h:
+
+C:/devkitPro/msys/include/SDL/SDL_assert.h:
+
+C:/devkitPro/msys/include/SDL/SDL_atomic.h:
+
+C:/devkitPro/msys/include/SDL/SDL_audio.h:
+
+C:/devkitPro/msys/include/SDL/SDL_error.h:
+
+C:/devkitPro/msys/include/SDL/SDL_endian.h:
+
+C:/devkitPro/msys/include/SDL/SDL_mutex.h:
+
+C:/devkitPro/msys/include/SDL/SDL_thread.h:
+
+C:/devkitPro/msys/include/SDL/SDL_rwops.h:
+
+C:/devkitPro/msys/include/SDL/SDL_clipboard.h:
+
+C:/devkitPro/msys/include/SDL/SDL_cpuinfo.h:
+
+C:/devkitPro/msys/include/SDL/SDL_events.h:
+
+C:/devkitPro/msys/include/SDL/SDL_video.h:
+
+C:/devkitPro/msys/include/SDL/SDL_pixels.h:
+
+C:/devkitPro/msys/include/SDL/SDL_rect.h:
+
+C:/devkitPro/msys/include/SDL/SDL_surface.h:
+
+C:/devkitPro/msys/include/SDL/SDL_blendmode.h:
+
+C:/devkitPro/msys/include/SDL/SDL_keyboard.h:
+
+C:/devkitPro/msys/include/SDL/SDL_keycode.h:
+
+C:/devkitPro/msys/include/SDL/SDL_scancode.h:
+
+C:/devkitPro/msys/include/SDL/SDL_mouse.h:
+
+C:/devkitPro/msys/include/SDL/SDL_joystick.h:
+
+C:/devkitPro/msys/include/SDL/SDL_gamecontroller.h:
+
+C:/devkitPro/msys/include/SDL/SDL_quit.h:
+
+C:/devkitPro/msys/include/SDL/SDL_gesture.h:
+
+C:/devkitPro/msys/include/SDL/SDL_touch.h:
+
+C:/devkitPro/msys/include/SDL/SDL_filesystem.h:
+
+C:/devkitPro/msys/include/SDL/SDL_haptic.h:
+
+C:/devkitPro/msys/include/SDL/SDL_hints.h:
+
+C:/devkitPro/msys/include/SDL/SDL_loadso.h:
+
+C:/devkitPro/msys/include/SDL/SDL_log.h:
+
+C:/devkitPro/msys/include/SDL/SDL_messagebox.h:
+
+C:/devkitPro/msys/include/SDL/SDL_power.h:
+
+C:/devkitPro/msys/include/SDL/SDL_render.h:
+
+C:/devkitPro/msys/include/SDL/SDL_system.h:
+
+C:/devkitPro/msys/include/SDL/SDL_timer.h:
+
+C:/devkitPro/msys/include/SDL/SDL_version.h:
+
+C:/devkitPro/msys/include/SDL/SDL_Main.h:

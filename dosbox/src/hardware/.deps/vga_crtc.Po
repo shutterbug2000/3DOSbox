@@ -1,0 +1,75 @@
+vga_crtc.o: vga_crtc.cpp \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h \
+ ../../include/dosbox.h ../../config.h ../../include/logging.h \
+ ../../include/inout.h ../../include/vga.h ../../include/debug.h \
+ ../../include/cpu.h ../../include/regs.h ../../include/mem.h \
+ ../../include/video.h ../../include/pic.h
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h:
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/inout.h:
+
+../../include/vga.h:
+
+../../include/debug.h:
+
+../../include/cpu.h:
+
+../../include/regs.h:
+
+../../include/mem.h:
+
+../../include/video.h:
+
+../../include/pic.h:

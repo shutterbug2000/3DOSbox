@@ -1,0 +1,85 @@
+render_scalers.o: render_scalers.cpp ../../include/dosbox.h \
+ ../../config.h ../../include/logging.h ../../include/render.h \
+ ../../include/../src/gui/render_scalers.h ../../include/video.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\string.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\string.h \
+ render_templates.h render_simple.h render_loops.h render_templates_hq.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h \
+ render_templates_hq2x.h render_templates_hq3x.h render_templates_sai.h
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/render.h:
+
+../../include/../src/gui/render_scalers.h:
+
+../../include/video.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\string.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\string.h:
+
+render_templates.h:
+
+render_simple.h:
+
+render_loops.h:
+
+render_templates_hq.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h:
+
+render_templates_hq2x.h:
+
+render_templates_hq3x.h:
+
+render_templates_sai.h:

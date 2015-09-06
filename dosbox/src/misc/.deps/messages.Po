@@ -1,0 +1,353 @@
+messages.o: messages.cpp \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdio.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdarg.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\stdio.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\string.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\string.h \
+ ../../include/dosbox.h ../../config.h ../../include/logging.h \
+ ../../include/cross.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\stat.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\time.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\time.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\string \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\c++config.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\os_defines.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\cpu_defines.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stringfwd.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\memoryfwd.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\char_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_algobase.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\functexcept.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\exception_defines.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\cpp_type_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\type_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\numeric_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_pair.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\move.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\concept_check.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\type_traits \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_iterator_base_types.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_iterator_base_funcs.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\debug\debug.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_iterator.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\ptr_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\predefined_ops.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\postypes.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cwchar \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\wchar.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cstdint \
+ c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdint.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\stdint.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_intsup.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\allocator.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\c++allocator.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\new_allocator.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\new \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\exception \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\atomic_lockfree_defines.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\exception_ptr.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\nested_exception.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\localefwd.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\c++locale.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\clocale \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\locale.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\iosfwd \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cctype \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\ctype.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\ostream_insert.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\cxxabi_forced.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_function.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\backward\binders.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\range_access.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\basic_string.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\atomicity.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\gthr.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\gthr-default.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\atomic_word.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\initializer_list \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\functional_hash.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\hash_bytes.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\basic_string.tcc \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\dirent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\dirent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\iosupport.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\reent.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\statvfs.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\syslimits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\unistd.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\sys\unistd.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\math.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\machine\fastmath.h \
+ ../../include/support.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\strings.h \
+ ../../include/setup.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\list \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_list.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\list.tcc \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\vector \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_construct.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\alloc_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\alloc_traits.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_uninitialized.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_vector.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_bvector.h \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\vector.tcc \
+ c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cstdio \
+ ../../include/control.h ../../include/programs.h ../../include/dos_inc.h \
+ ../../include/dos_system.h ../../include/mem.h
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdio.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\newlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\config.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\ieeefp.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\features.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\cdefs.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_default_types.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stddef.h:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdarg.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\reent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\_ansi.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\lock.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\stdio.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\stdlib.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\alloca.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\string.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\string.h:
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/cross.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\stat.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\time.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\time.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\string:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\c++config.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\os_defines.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\cpu_defines.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stringfwd.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\memoryfwd.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\char_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_algobase.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\functexcept.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\exception_defines.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\cpp_type_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\type_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\numeric_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_pair.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\move.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\concept_check.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\type_traits:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_iterator_base_types.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_iterator_base_funcs.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\debug\debug.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_iterator.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\ptr_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\predefined_ops.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\postypes.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cwchar:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\wchar.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cstdint:
+
+c:\devkitpro\devkitarm\lib\gcc\arm-none-eabi\4.9.2\include\stdint.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\stdint.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\_intsup.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\allocator.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\c++allocator.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\new_allocator.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\new:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\exception:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\atomic_lockfree_defines.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\exception_ptr.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\nested_exception.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\localefwd.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\c++locale.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\clocale:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\locale.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\iosfwd:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cctype:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\ctype.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\ostream_insert.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\cxxabi_forced.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_function.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\backward\binders.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\range_access.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\basic_string.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\atomicity.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\gthr.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\gthr-default.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\arm-none-eabi\armv6k\fpu\bits\atomic_word.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\initializer_list:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\functional_hash.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\hash_bytes.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\basic_string.tcc:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\dirent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\dirent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\iosupport.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\reent.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\statvfs.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\syslimits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\unistd.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\sys\unistd.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\math.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\machine\fastmath.h:
+
+../../include/support.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\strings.h:
+
+../../include/setup.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\list:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_list.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\list.tcc:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\vector:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_construct.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\ext\alloc_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\alloc_traits.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_uninitialized.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_vector.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\stl_bvector.h:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\bits\vector.tcc:
+
+c:\devkitpro\devkitarm\arm-none-eabi\include\c++\4.9.2\cstdio:
+
+../../include/control.h:
+
+../../include/programs.h:
+
+../../include/dos_inc.h:
+
+../../include/dos_system.h:
+
+../../include/mem.h:
